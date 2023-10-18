@@ -30,7 +30,7 @@ SECRET_KEY = 'SECRET_KEY'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-helenmuruga-ithinkthere-k1799zvv1xp.ws-eu105.gitpod.io', 'localhost', 'hjm-django-blog.herokuapp.com']
+ALLOWED_HOSTS = ['8000-helenmuruga-ithinkthere-k1799zvv1xp.ws-eu105.gitpod.io', 'localhost', 'hjm-django-blog-28d76bb6550a.herokuapp.com']
 
 
 # Application definition
